@@ -1,0 +1,27 @@
+Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,Monday Apr 3,boxscore,PHI,@,CIN,W,4,3,,1-0,1,Tied,Hellickson,Feldman,Gomez,3:04,D,43804,+
+2,Wednesday Apr 5,boxscore,PHI,@,CIN,L,0,2,,1-1,2,1.0,Finnegan,Eickhoff,Iglesias,2:25,N,19944,-
+3,Thursday Apr 6,boxscore,PHI,@,CIN,L,4,7,,1-2,3,1.0,Reed,Morgan,Storen,3:05,D,10586,--
+4,Friday Apr 7,boxscore,PHI,,WSN,L,6,7,,1-3,4,2.0,Scherzer,Velasquez,Treinen,3:34,D,45121,---
+5,Saturday Apr 8,boxscore,PHI,,WSN,W,17,3,,2-3,3,1.0,Nola,Guthrie,,3:15,N,37241,+
+6,Sunday Apr 9,boxscore,PHI,,WSN,W-wo,4,3,,3-3,1,Tied,Gomez,Glover,,3:24,D,36917,++
+7,Monday Apr 10,boxscore,PHI,,NYM,L,3,4,,3-4,4,1.0,Blevins,Ramos,Reed,2:59,N,33359,-
+8,Tuesday Apr 11,boxscore,PHI,,NYM,L,4,14,,3-5,4,2.0,Harvey,Buchholz,,3:38,N,28659,--
+9,Wednesday Apr 12,boxscore,PHI,,NYM,L,4,5,,3-6,4,3.0,Wheeler,Velasquez,Reed,3:13,N,28272,---
+10,Friday Apr 14,boxscore,PHI,@,WSN,L-wo,2,3,10,3-7,5,3.5,Kelley,Gomez,,3:18,D,38664,----
+11,Saturday Apr 15,boxscore,PHI,@,WSN,W,4,2,,4-7,5,2.5,Hellickson,Blanton,Benoit,2:39,D,35626,+
+12,Sunday Apr 16,boxscore,PHI,@,WSN,L-wo,4,6,,4-8,5,3.0,Kelley,Benoit,,3:11,D,29774,-
+13,Tuesday Apr 18,boxscore,PHI,@,NYM,W,6,2,10,5-8,5,3.0,Garcia,Montero,,3:58,N,23536,+
+14,Wednesday Apr 19,boxscore,PHI,@,NYM,L,4,5,,5-9,5,4.0,Robles,Ramos,Reed,2:37,N,22243,-
+15,Thursday Apr 20,boxscore,PHI,@,NYM,W,6,4,,6-9,4,4.0,Nola,Syndergaard,Neris,3:14,N,24656,+
+16,Friday Apr 21,boxscore,PHI,,ATL,W,4,3,,7-9,4,4.0,Hellickson,Colon,Neris,2:38,N,24189,++
+17,Saturday Apr 22,boxscore,PHI,,ATL,W-wo,4,3,10,8-9,3,4.0,Gomez,Johnson,,3:32,N,31334,+++
+18,Sunday Apr 23,boxscore,PHI,,ATL,W,5,2,,9-9,3,4.0,Rodriguez,Vizcaino,,2:38,D,28632,++++
+19,Wednesday Apr 26,boxscore,PHI,,MIA,W,7,4,,10-9,2,4.0,Velasquez,Chen,,2:41,N,26191,+++++
+20,Thursday Apr 27,boxscore,PHI,,MIA,W,3,2,,11-9,2,4.0,Hellickson,Volquez,Neris,3:15,D,22180,++++++
+21,Friday Apr 28,boxscore,PHI,@,LAD,L,3,5,,11-10,2,4.0,Maeda,Eickhoff,Jansen,3:02,N,46729,-
+22,Saturday Apr 29,boxscore,PHI,@,LAD,L-wo,5,6,,11-11,2,4.0,Dayton,Neris,,3:27,N,53110,--
+23,Sunday Apr 30,boxscore,PHI,@,LAD,L,3,5,,11-12,2,5.0,Ryu,Pivetta,Jansen,3:06,D,48961,---
+24,Monday May 1,boxscore,PHI,@,CHC,W,10,2,,12-12,2,4.5,Velasquez,Anderson,,3:06,N,38567,+
+25,Tuesday May 2,boxscore,PHI,@,CHC,L,3,8,,12-13,2,4.5,Lester,Hellickson,,3:24,N,38660,-
+26,Wednesday May 3,boxscore,PHI,@,CHC,L,4,5,,12-14,2,5.5,Arrieta,Eickhoff,Davis,3:09,N,39335,--
