@@ -1,5 +1,5 @@
 # BaseballNodes
-Using data from baseballreference.com to anaylze baseball game outcomes in real time. 
+Using data from baseball-reference.com to anaylze baseball game outcomes in real time. 
 Written in Python 3.6, V1.0.0.
 
 To change the database:
