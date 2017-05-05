@@ -4,7 +4,7 @@ Written in Python 3.6, still in developement so expect bugs.
 
 To change the database:
 
--go to baseballreference.com
+-go to baseball-reference.com
 
 -go to your team's page and go to Schedule and Results
 
