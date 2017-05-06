@@ -1,5 +1,5 @@
 # Baseball Nodes
-Using data from baseball-reference.com to anaylze baseball game outcomes in real time. 
+Using data from baseball-reference.com to anaylze baseball game day-to-day outcomes in real time. Uses the Naive Bayes machine learning tool to 'test' the team in the database against any other team, home or away, day or night, etc. UI is all through Python IDLE.
 Written in Python 3.6, still in developement, so expect bugs.
 
 To change the database:
