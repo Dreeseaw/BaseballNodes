@@ -17,4 +17,4 @@ To use:
 
 -download all .py and .txt data files
 
--run baseballNode.py
+-run baseballNodes.py
