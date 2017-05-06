@@ -1,6 +1,6 @@
 # Baseball Nodes
 Using data from baseball-reference.com to anaylze baseball game outcomes in real time. 
-Written in Python 3.6, still in developement so expect bugs.
+Written in Python 3.6, still in developement, so expect bugs.
 
 To change the database:
 
@@ -12,3 +12,9 @@ To change the database:
 
 -click "Get table for CSV (for Excel)". Copy all the info (ALL) and replace
 it in rawDataNats.txt
+
+To use:
+
+-download all .py and .txt data files
+
+-run baseballNode.py
